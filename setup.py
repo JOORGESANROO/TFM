@@ -1,5 +1,5 @@
 from setuptools import setup, find_packages
-from module_structure1 import __author__,__version__,__name__
+from module_structure import __author__,__version__,__name__
 
 
 VERSION = __version__
