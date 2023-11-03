@@ -1,4 +1,4 @@
-from module_structure1.tensor_operator import *
+from module_structure.tensor_operator import *
 
 
 
