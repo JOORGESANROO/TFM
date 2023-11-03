@@ -6,7 +6,7 @@ This module provides a set of functions to perform operations on PyTorch 2-dimen
 
 You can install the associated module using the following command in on your Conda environment
 
-**pip install git+https://github.com/jaimelhd/module_structure1.git@v1.0.0
+**pip install git+https://github.com/JOORGESANROO/module_structure.git@v1.0.0
 **
 You can use the The -U option to update an already installed package to the latest available version.
 
